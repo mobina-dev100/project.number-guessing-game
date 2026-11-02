@@ -13,4 +13,4 @@
 - امکان بازی مجدد
 
 ## اجرا
-python guess_game.py
+python guess-game.py
